@@ -1,1 +1,1 @@
-# work-flow-planner
+# WorkFlowPlanner
